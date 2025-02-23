@@ -1,6 +1,6 @@
-# Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024 
+# <div align="center">Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024</div>
 
-Paper | [Dataset](https://huggingface.co/datasets/nuriachandra/Deepfake-Eval-2024)
+<div align="center">Paper | [Dataset](https://huggingface.co/datasets/nuriachandra/Deepfake-Eval-2024)</div>
 
 ### Examples of Deepfake-Eval-2024
 ![Examples of Deepfake-Eval-2024 video and audio (rows 1–2), and images (rows 3–4),
